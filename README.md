@@ -1,7 +1,10 @@
-## Hi there 👋
+## Hi there 🐶
 
 ## 🎓 Certifications
-![GitHub Foundations Certification](https://www.credly.com/badges/7b67f8b2-8f2c-4a8e-8068-5d96363a30e5/public_url)
+[![GitHub Foundations Certification](https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png)](https://www.credly.com/badges/7b67f8b2-8f2c-4a8e-8068-5d96363a30e5/public_url)
+
+
+
 
 <!--
 **WireFoxTerrier/WireFoxTerrier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

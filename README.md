@@ -1,12 +1,7 @@
 ## Hi there 🐕 This is Brian J. I wish you a good day.
 
 
-![badge 拼接](https://github.com/user-attachments/assets/983c92e1-2348-4cd1-97d1-553f8c6e534b)
-<img src="https://github.com/user-attachments/assets/983c92e1-2348-4cd1-97d1-553f8c6e534b" alt="badge 拼接" width="300"/>
-
-
-
-
+<img src="https://github.com/user-attachments/assets/becc63a9-80f6-445a-91d6-76df5ca837dc" alt="badge拼接在一起" width="600"/>
 
 
 

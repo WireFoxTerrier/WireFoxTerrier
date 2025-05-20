@@ -2,6 +2,7 @@
 
 [<img src="https://raw.githubusercontent.com/WireFoxTerrier/WireFoxTerrier/main/DS%20-%20HD%20badge.png" width="130">](https://www.datacamp.com/certificate/DS0021494083287)
 [<img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="150">](https://www.credly.com/badges/7b67f8b2-8f2c-4a8e-8068-5d96363a30e5/public_url)
+![badge 拼接](https://github.com/user-attachments/assets/983c92e1-2348-4cd1-97d1-553f8c6e534b)
 
 
 

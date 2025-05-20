@@ -2,7 +2,7 @@
 
 
 ![badge 拼接](https://github.com/user-attachments/assets/983c92e1-2348-4cd1-97d1-553f8c6e534b)
-
+<img src="https://github.com/user-attachments/assets/983c92e1-2348-4cd1-97d1-553f8c6e534b" alt="badge 拼接" width="300"/>
 
 
 

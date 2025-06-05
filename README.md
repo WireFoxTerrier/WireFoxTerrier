@@ -1,7 +1,7 @@
 ## Hi there 🐕 This is Brian J. I wish you a good day.
 
 
-<img src="https://github.com/user-attachments/assets/becc63a9-80f6-445a-91d6-76df5ca837dc" alt="badge拼接在一起" width="600"/>
+![badge拼接在一起 2_加入AWS](https://github.com/user-attachments/assets/54ffd0a9-a56d-46c9-bf11-c8e973719523)
 
 
 
